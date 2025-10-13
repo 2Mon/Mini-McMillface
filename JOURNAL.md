@@ -20,3 +20,13 @@ The frame will be holding the Y linear rails (HGR15) and also the NEMA23 for run
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTkyNywicHVyIjoiYmxvYl9pZCJ9fQ==--399e988e2f374c9920a4c53195ec85fd389f9492/image.png)
   
 
+## 10/13/2025 - Added Verticals  
+
+In this session, I added the verticals and the X rail mounting extrusions. I once again used 10mm steel plate, with two 380mm 4040 extrusions to connect them and mount the rails. They are mounted with a ton of m5 bolts, which I may end up replacing with some hex bolts, which should be easier to torque down with an impact driver. 
+
+I also added the Y-axis rails. They are currently HGR20, but I will probably change it to HGR15 for space and cost reduction. It should be very rigid either way. They will have two carriages each, as well. 
+
+
+![Screenshot 2025-10-13 at 10.21.16 AM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTk5MywicHVyIjoiYmxvYl9pZCJ9fQ==--713062b8607cf33e0726c6817c6234a5f22c88cb/Screenshot%202025-10-13%20at%2010.21.16%E2%80%AFAM.png)
+  
+
