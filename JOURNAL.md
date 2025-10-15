@@ -30,3 +30,10 @@ I also added the Y-axis rails. They are currently HGR20, but I will probably cha
 ![Screenshot 2025-10-13 at 10.21.16 AM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTk5MywicHVyIjoiYmxvYl9pZCJ9fQ==--713062b8607cf33e0726c6817c6234a5f22c88cb/Screenshot%202025-10-13%20at%2010.21.16%E2%80%AFAM.png)
   
 
+## 10/14/2025 - Lets Start Again  
+
+I realized that I would not be able to fit the thick steel and aluminum extrusion in the budget. I have switched to using steel tubing as it's available locally for cheap (<$2/kg) so I have decided to use this. It will also make it more rigid, as the tubing itself makes it a lot more rigid. I could also fill the tubes with epoxy granite which would make it even more rigid. My first design was hastily thrown together and not really thought through well. Just the steel plate would cost more than 300 dollars. That just is not reasonable. This steel frame was inspired by the PrintNC project, but this is a bedslinger mill and not a gantry mill. I think it should work out fairly well. This looks like a big step back but for the actual mill it should be a big improvement.
+
+![Screenshot 2025-10-14 at 8.15.28 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI1NCwicHVyIjoiYmxvYl9pZCJ9fQ==--63f7781553141a246abd27c9a7db1050a15a40a0/Screenshot%202025-10-14%20at%208.15.28%E2%80%AFPM.png)
+  
+
