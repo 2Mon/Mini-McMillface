@@ -37,7 +37,7 @@ I realized that I would not be able to fit the thick steel and aluminum extrusio
 ![Screenshot 2025-10-14 at 8.15.28 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI1NCwicHVyIjoiYmxvYl9pZCJ9fQ==--63f7781553141a246abd27c9a7db1050a15a40a0/Screenshot%202025-10-14%20at%208.15.28%E2%80%AFPM.png)
   
 
-## 10/16/2025 - Base Reinforcement + X Axis + Bed  
+## 10/16/2025 12 AM - Base Reinforcement + X Axis + Bed  
 
 I did a LOT of work today. I started by beefing up the frame a bit. This was to: 1) make it more rigid, 2) make it use fewer different types of steel, and 3) make it easier to assemble. Overall, this was a good change, but it may make it slightly more expensive. Now it's almost entirely made out of 2x3 RHS, with a couple of different pieces here and there for rail mounting.
 
@@ -46,5 +46,12 @@ I also added the X-axis during this session. This is a big 5x2 tube with two HGR
 Lastly, I added a template for the work plate. I'm not super happy with this yet; it doesn't seem very solid, and I should probably add some reinforcement. Right now, it's just so I can see the travel I can achieve on this setup.
 
 ![Screenshot 2025-10-16 at 12.01.50 AM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQ0MiwicHVyIjoiYmxvYl9pZCJ9fQ==--fe662118ebc0a94929e40da03fc96bb48c4c4e95/Screenshot%202025-10-16%20at%2012.01.50%E2%80%AFAM.png)
+  
+
+## 10/16/2025 10 AM - Added Y Ballscrew  
+
+In this session, I added the Y ballscrew and motor mount. It is an HM12-57 motor mount, perfect for a 16mm ballscrew and a NEMA23 motor. I have it mounted with six M6 bolts, which are tapped directly into the steel tubes on the back of the mill. The ballscrew is 500mm long, which should give me around 300mm of Y travel. Next, I need to add the other end of the ballscrew mount, which should be pretty easy, as it is just an off-the-shelf mounting bracket. I also need to add a way to mount the ballnut to the plate, but this should also be fairly easy, just an aluminum block. 
+
+![Screenshot 2025-10-16 at 9.59.01 AM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQ5MSwicHVyIjoiYmxvYl9pZCJ9fQ==--395cf6e38b008cf560c68b8425051645cfd75eaa/Screenshot%202025-10-16%20at%209.59.01%E2%80%AFAM.png)
   
 
