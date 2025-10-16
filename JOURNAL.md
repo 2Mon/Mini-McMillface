@@ -37,3 +37,14 @@ I realized that I would not be able to fit the thick steel and aluminum extrusio
 ![Screenshot 2025-10-14 at 8.15.28 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI1NCwicHVyIjoiYmxvYl9pZCJ9fQ==--63f7781553141a246abd27c9a7db1050a15a40a0/Screenshot%202025-10-14%20at%208.15.28%E2%80%AFPM.png)
   
 
+## 10/16/2025 - Base Reinforcement + X Axis + Bed  
+
+I did a LOT of work today. I started by beefing up the frame a bit. This was to: 1) make it more rigid, 2) make it use fewer different types of steel, and 3) make it easier to assemble. Overall, this was a good change, but it may make it slightly more expensive. Now it's almost entirely made out of 2x3 RHS, with a couple of different pieces here and there for rail mounting.
+
+I also added the X-axis during this session. This is a big 5x2 tube with two HGR20 rails on it. Eventually, it will have a 16mm ballscrew running down the center of it. I may need to use some spacers to give the ballscrew room to move. 
+
+Lastly, I added a template for the work plate. I'm not super happy with this yet; it doesn't seem very solid, and I should probably add some reinforcement. Right now, it's just so I can see the travel I can achieve on this setup.
+
+![Screenshot 2025-10-16 at 12.01.50 AM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQ0MiwicHVyIjoiYmxvYl9pZCJ9fQ==--fe662118ebc0a94929e40da03fc96bb48c4c4e95/Screenshot%202025-10-16%20at%2012.01.50%E2%80%AFAM.png)
+  
+
