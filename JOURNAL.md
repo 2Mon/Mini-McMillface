@@ -55,3 +55,11 @@ In this session, I added the Y ballscrew and motor mount. It is an HM12-57 motor
 ![Screenshot 2025-10-16 at 9.59.01 AM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQ5MSwicHVyIjoiYmxvYl9pZCJ9fQ==--395cf6e38b008cf560c68b8425051645cfd75eaa/Screenshot%202025-10-16%20at%209.59.01%E2%80%AFAM.png)
   
 
+## 10/16/2025 9 PM - X Axis Plate  
+
+In this session, I added the X-axis plate. It is basically a 25mm thick piece of aluminum with some counterbore holes for the carriage mounting, and m5 tapped holes spaced 60mm apart for the rail mounting. This should make it very rigid and be able to hold the spindle and resist the cutting forces. The X axis itself is a huge piece of 6x2 RHS, with holes tapped every 60mm for rail mounting. I still need to add ballscrews and motors to the X and Z axes, as well as the Z mounting plate, which will hold the spindle. I may need to space the rails out from the tubes to be able to put the ballscrew under the plates. 
+
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjU2NCwicHVyIjoiYmxvYl9pZCJ9fQ==--25af0dd76495d18387a029d0cca1443fe8c8e17b/image.png)
+  
+
