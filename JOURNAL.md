@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **Mini McMillface**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/442).
-
-
 ## 10/12/2025 - Designed the Base Frame  
 
 In this session, I designed the base frame for the mill. I'm currently using 4040 extrusions and 10mm thick steel plates. The steel is held together by many, many M5 bolts, which should help the rigidity. I think that this should be rigid enough for my purposes, but I'm not super comfortable with the aluminum extrusion. Ideally, I would be using a steel box section, but this would get expensive very quickly, and it's hard to find small lengths of box section locally. I might end up changing it, but we will see. 
@@ -61,5 +57,22 @@ In this session, I added the X-axis plate. It is basically a 25mm thick piece of
 
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjU2NCwicHVyIjoiYmxvYl9pZCJ9fQ==--25af0dd76495d18387a029d0cca1443fe8c8e17b/image.png)
+  
+
+## 10/20/2025 - Z axis + X motor + Fixture plate  
+
+In this session I added most of the Z axis to the mill. This rides on two more HGR20 rails, and the carriage is a 1/2 inch piece of milled aluminum. It has four tapped holes to hold the 65mm spindle clamp, a common off the shelf part. This part is fairly simple, but I will need to modify it a bit to allow the ballscrew and the ballscrew mount to fit between the rails. 
+
+![Screenshot 2025-10-20 at 7.11.29 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzg2OSwicHVyIjoiYmxvYl9pZCJ9fQ==--997c692c1a1c40b20d0bdf2fdd4a4b3fee73efe8/Screenshot%202025-10-20%20at%207.11.29%E2%80%AFPM.png)
+
+I also added the X motor in this session. Its another nema23 on the same ball screw mount. Its attached to the steel tube with 6 m6 tapped holes. I also added the ballnut mount on the X plate. I had to thin down the plate a bit, but kept the mounting for the carriages where they were. This lets me keep the same general dimensions while allowing space for the ballnut mount and the ballscrew. 
+
+![Screenshot 2025-10-20 at 7.23.15 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzg3MSwicHVyIjoiYmxvYl9pZCJ9fQ==--118796d2449f9ff74e7965bcf09fde8da9d876ac/Screenshot%202025-10-20%20at%207.23.15%E2%80%AFPM.png)
+
+Finally, I added the holes on the fixture plate. I may end up milling these on the mill itself so its square, but im not entirely sure if that is the best way to do it. I need to research what others do. Its essentially 19mm grid of m8 holes that I can put fixtures in to hold parts down to the table. It will be painful to tap 272 holes so I may end up milling it in place. 
+
+![Screenshot 2025-10-20 at 7.25.03 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzg3MywicHVyIjoiYmxvYl9pZCJ9fQ==--603f5a296cf7a4c72fc5231d7befb4d0b86519c8/Screenshot%202025-10-20%20at%207.25.03%E2%80%AFPM.png)
+
+
   
 
