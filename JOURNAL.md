@@ -76,3 +76,10 @@ Finally, I added the holes on the fixture plate. I may end up milling these on t
 
   
 
+## 10/24/2025 - X axis Ballscrew  
+
+In this session, I added the X-axis ballscrew. It is identical to the one on the Y axis, so that should make sourcing easier and cheaper. I'm using an off-the-shelf ballscrew mounting bracket that attaches to the X plate with some bolts. It attaches to the ballnut and keeps everything rigid. I needed to make the X plate a little thinner, as well as make the extensions for rail mounting larger, so the plate can fit over the X motor mount. 
+
+![Screenshot 2025-10-24 at 11.20.49 AM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTEzMywicHVyIjoiYmxvYl9pZCJ9fQ==--99212f67a9b7537fc402bc57bf4bf98cf7cb003d/Screenshot%202025-10-24%20at%2011.20.49%E2%80%AFAM.png)
+  
+
